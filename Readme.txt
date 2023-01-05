@@ -16,9 +16,9 @@ About the scripts: The gene expression data was processed using the scripts shar
 
 4. Feature selection: Differential gene expression analysis as feature selection method. Feature genes identified from each train data was used to build machine learning models.
 
-5. SVM and 6. PAM: Models were built using different number of feature genes and varying kernels. Models were tested using test datasets. Models and test data predictions were saved for further analysis. 
+5. SVM and 6. PAM: Models were built using different number of feature genes. Models were tested using test datasets. Models and test data predictions were saved for further analysis. 
 
-7. Ensemble learning: Test data prediction of SVM and PAM models were ensemble using Boolean operator “AND”.  Ensemble models were evaluated based on precision.
+7. Ensemble learning: Test data prediction of SVM and PAM models were ensemble using Boolean operator â€œANDâ€.  Ensemble models were evaluated based on precision.
 
 Contact:
 Vipul : vipulwagh31@gmail.com
