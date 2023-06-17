@@ -1,4 +1,6 @@
-Read me file for schizophrenia (SCZ) project
+Read me file for schizophrenia (SCZ) project.
+
+Research article: https://www.medrxiv.org/content/10.1101/2023.02.11.23285788v2
 
 Aim of the project: To achieve higher machine learning based classification precision for psychiatric disorders using ensemble learning.
 
